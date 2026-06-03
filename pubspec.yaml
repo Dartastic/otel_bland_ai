@@ -1,6 +1,6 @@
 name: otel_bland_ai
 description: "Dartastic OpenTelemetry bridge for Bland.ai voice agents (calls, pathways, voices, transfer)."
-version: 0.1.0-beta.1
+version: 0.1.0-beta.2-wip
 repository: https://github.com/dartastic/otel_bland_ai
 homepage: https://dartastic.io
 publish_to: https://pub.dartastic.io
